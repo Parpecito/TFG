@@ -21,3 +21,31 @@ TFG/
 ├── Caso de Uso 2 LangGraph/
 ├── Caso de Uso 3 Autogen/
 └── Caso de Uso 3 LangGraph/
+```
+## Requisitos para ejecutar
+Cada caso de uso tendrá un archivo requierement.txt donde vendrá lo necesario para ejecuta el programa
+Además, el usuario necesita tener las API KEY que hay en los .env
+
+## Instalación y despliegue
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/Parpecito/TFG.git
+cd TFG
+```
+
+2. Crear y activar entorno virtual (Python):
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+3. Configurar variables de entorno para la API de LLM y credenciales de base de datos.
+
+4. Ejecutar cada caso de uso:
+```bash
+cd "Caso de Uso 1 Autogen"
+python main.py
+```
+
+Repite el proceso para todos los casos de usos.
