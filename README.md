@@ -1,7 +1,7 @@
 # TFG: Comparativa de distintos frameworks especializados y lideres en de desarrollo de arquitecturas multiagentes para la resolución de casos de uso que se enmarcan en el sector financiero
 
 ## Descripción del proyecto
-Este Trabajo de Fin de Grado (TFG) evalúa y compara dos frameworks de arquitecturas multiagente—**Autogen** y **LangGraph**—en su aplicabilidad dentro de este sector. A través de tres casos de uso prácticos, se analizan aspectos como:
+Este Trabajo de Fin de Grado (TFG) evalúa y compara dos frameworks de arquitecturas multiagente **Autogen** y **LangGraph** en su aplicabilidad dentro de este sector. A través de tres casos de uso prácticos, se analizan aspectos como:
 
 - Rendimiento y escalabilidad  
 - Trazabilidad y auditoría  
@@ -10,7 +10,7 @@ Este Trabajo de Fin de Grado (TFG) evalúa y compara dos frameworks de arquitect
 
 El objetivo es proporcionar una guía técnica y práctica que oriente a profesionales e instituciones financieras en la selección e implementación de soluciones multiagente basadas en modelos de lenguaje (LLMs) utilizando los frameworks más actuales.
 
-## Casos de usos desarroilados
+## Casos de usos desarrollados
 1. Análisis financiero de una empresa donde en Autogen utiliza MCP y LangGraph no utiliza MCP.
 2. Sistema multiagente de análisis de noticias financieras
 3. Sistema multiagente de análisis finaiciero utilizando tecnología MCP.
