@@ -13,7 +13,7 @@ El objetivo es proporcionar una guía técnica y práctica que oriente a profesi
 ## Casos de usos desarrollados
 1. Análisis financiero de una empresa donde en Autogen utiliza MCP y LangGraph no utiliza MCP.
 2. Sistema multiagente de análisis de noticias financieras
-3. Sistema multiagente de análisis finaiciero utilizando tecnología MCP.
+3. Sistema multiagente de análisis financiero utilizando tecnología MCP.
 
 ## Estructura del repositorio
 
